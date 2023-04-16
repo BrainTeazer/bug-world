@@ -1,4 +1,4 @@
-# README for SE_bug-world
+# README for Bug World
 
 **BugWorld** is an environment of two swarms of bugs, where the goal of the bugs is to collect the most food and bring it back to their base. This is an implementation of the game using HTML, CSS, and Javascript. This project aims to implement an assembler to parse bug instructions, a GUI for the simulator, and the actual simulator itself.
 
